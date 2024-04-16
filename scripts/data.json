@@ -1,0 +1,13 @@
+{
+    "name": "Nolen Robinson",
+    "gender": "Male",
+    "phone": "3343792211",
+    "creditCard": "1234-5678-9101-1121",
+    "password":"strongpassword1234",
+    "SID": "123456789",
+    "email": "nrobinson4@una.edu",
+    "datetime": "2024-04-20T04:20:00",
+    "clan": "Kamo",
+    "subgroup": "Choso",
+    "interests": ["cursedObjects", "Supernatural", "theVoid"]
+}
